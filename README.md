@@ -12,7 +12,7 @@ A Python automation tool that automatically copies cryptocurrency addresses to c
 - **Supported Platforms**:
   - Stake.us
   - Shuffle.us  
-  - StakeStats.com
+  - Stake.com
 
 - **Supported Cryptocurrencies**:
   - Litecoin (LTC)
